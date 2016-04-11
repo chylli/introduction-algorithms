@@ -1,0 +1,6 @@
+[package]
+name = "introduction-algorithms"
+version = "0.0.1"
+authors = ["Chylli <chylli.email@gmail.com>"]
+
+[dependencies]
